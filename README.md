@@ -18,4 +18,4 @@ Step 2 - You will find a folder with the task name.
 
 Step 3 - Make a folder with your name in the task folder.
 
-Step 4 - Push your code and video (compress it first).
+Step 4 - Push your code, video (compress it first) and web site link (when possible).
